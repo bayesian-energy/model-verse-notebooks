@@ -1,7 +1,7 @@
 # model-verse notebooks
 
 Starter notebooks for exploring [PyPSA](https://pypsa.org) community models listed on
-[modelverse.bayesian.energy](https://modelverse.bayesian.energy). Each notebook downloads the
+the modelverse. Each notebook downloads the
 model's published PyPSA network and takes a quick look at its buses, generators, snapshots and
 installed capacity — open it in Google Colab and run all cells.
 
